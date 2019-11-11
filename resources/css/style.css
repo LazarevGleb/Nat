@@ -1,0 +1,17 @@
+body {
+    background: #66CDAA;
+    color: #9400D3;
+}
+
+.title-main {
+    font-size: 2.5rem;
+    font-style: italic;
+}
+
+.subtitle-main {
+    font-size: 1.75rem;
+}
+
+.red-line {
+    text-indent: 2.5rem;
+}
